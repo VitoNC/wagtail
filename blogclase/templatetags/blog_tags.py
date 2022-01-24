@@ -1,5 +1,5 @@
 from blog.models import BlogCategory as Category
-from django.template import Library, loader
+from django.template import Library
 
 register = Library()
 
